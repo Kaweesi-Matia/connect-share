@@ -47,6 +47,16 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        fb: {
+          blue: "hsl(var(--fb-blue))",
+          "blue-hover": "hsl(var(--fb-blue-hover))",
+          green: "hsl(var(--fb-green))",
+          red: "hsl(var(--fb-red))",
+          yellow: "hsl(var(--fb-yellow))",
+          "gray-light": "hsl(var(--fb-gray-light))",
+          "gray-text": "hsl(var(--fb-gray-text))",
+          separator: "hsl(var(--fb-separator))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
